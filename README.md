@@ -28,13 +28,3 @@
 ![Visual Shader](https://img.shields.io/badge/-Visual%20Shader-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yzs020220&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzs020220&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
